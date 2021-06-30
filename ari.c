@@ -33,8 +33,8 @@ string ari(string s)
 	 	case 7 : return "Seventh Grade";
 	 	case 8 : return "Eighth Grade";
 	 	case 9 : return"Ninth Grade";
-	    case 10 : return "Tenth Grade";
-	    case 11 : return "Eleventh Grade";
+	    	case 10 : return "Tenth Grade";
+	    	case 11 : return "Eleventh Grade";
 		case 12 : return "Twelfth grade";
 		case 13 : return "College student";
 		case 14 : return "Professor";
